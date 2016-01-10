@@ -1,0 +1,7 @@
+##  Who am I?
+
+* Engineering Manager @ [10up](http://10up.com)
+* Open-source contributor
+* Husband + (new) father
+* Gif curator
+* Coffee roaster

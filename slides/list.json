@@ -1,0 +1,34 @@
+[
+    "index.md",
+    "who-am-i.md",
+    "why-does-offline-matter.md",
+    [
+        "xylem-sales-support-tool.md",
+        "about-xylem.md",
+        "sales-support-tool.md",
+        "sales-tool-example-1.md",
+        "sales-tool-example-2.md",
+        "sales-support-tool-drawbacks.md",
+        "disconnected.md",
+        "problems-to-solve.md"
+    ],
+    [
+        "making-the-content-available-offline.md",
+        "offline-storage-options.md",
+        "localstorage.md",
+        "localstorage-limitations.html",
+        "localstorage-limitations2.html",
+        "localstorage-limitations3.md",
+        "websql.md",
+        "websql2.md",
+        "websql3.md",
+        "indexeddb.md",
+        "indexeddb-benefits.md",
+        "ydn-db.md",
+        "ydn-db2.md"
+    ],
+    "keeping-the-offline-data-up-to-date.md",
+    "maintaining-functionality.md",
+    "deployment.md",
+    "results.md"
+]

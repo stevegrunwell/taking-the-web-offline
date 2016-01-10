@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Taking the Web Offline",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "taking-the-web-offline"
+  }
+}

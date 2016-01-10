@@ -14,6 +14,7 @@
     ],
     [
         "making-the-content-available-offline.md",
+        "backbone-app.md",
         "offline-storage-options.md",
         "localstorage.md",
         "localstorage-limitations.html",
@@ -27,7 +28,14 @@
         "ydn-db.md",
         "ydn-db2.md"
     ],
-    "keeping-the-offline-data-up-to-date.md",
+    [
+        "keeping-the-offline-data-up-to-date.md",
+        "getting-data-out-of-wordpress.md",
+        "getting-data-out-of-wordpress2.md",
+        "getting-data-out-of-wordpress3.md",
+        "getting-data-out-of-wordpress4.md",
+        "getting-data-out-of-wordpress5.md"
+    ],
     "maintaining-functionality.md",
     "deployment.md",
     "results.md"

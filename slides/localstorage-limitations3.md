@@ -1,5 +1,3 @@
-<!-- .slide: data-transition="none" -->
-
 ## More `localStorage` limitations
 
 * Can only store strings

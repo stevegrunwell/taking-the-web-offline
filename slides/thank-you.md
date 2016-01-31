@@ -1,6 +1,7 @@
-# Taking the Web Offline
+## Thank you!
 
 Steve Grunwell<br>
-[@stevegrunwell](https://twitter.com/stevegrunwell)
+[stevegrunwell.com](https://stevegrunwell.com)<br>
+[10up.com](http://10up.com)
 
 [stevegrunwell.github.io/taking-the-web-offline](http://stevegrunwell.github.io/taking-the-web-offline)

@@ -34,7 +34,11 @@
         "getting-data-out-of-wordpress2.md",
         "getting-data-out-of-wordpress3.md",
         "getting-data-out-of-wordpress4.md",
-        "getting-data-out-of-wordpress5.md"
+        "getting-data-out-of-wordpress5.md",
+        "synchronization-methods.md",
+        "hmm.md",
+        "dropbox.md",
+        "dropbox2.md"
     ],
     [
         "maintaining-functionality.md",

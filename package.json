@@ -26,6 +26,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt-build-control": "^0.5.0"
+    "grunt-build-control": "^0.5.0",
+    "reveal-ga": "^0.1.0"
   }
 }

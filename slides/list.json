@@ -36,7 +36,12 @@
         "getting-data-out-of-wordpress4.md",
         "getting-data-out-of-wordpress5.md"
     ],
-    "maintaining-functionality.md",
+    [
+        "maintaining-functionality.md",
+        "bundling-assets.md",
+        "bundling-assets2.md",
+        "bundling-assets3.md"
+    ],
     [
         "deployment.md",
         "requirements.md",

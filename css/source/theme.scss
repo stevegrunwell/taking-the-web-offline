@@ -70,5 +70,10 @@ section.has-light-background {
 				border-bottom: 1px solid;
 			}
 		}
+		caption {
+			caption-side: bottom;
+			margin-top: 1em;
+			font-size: .8em;
+		}
 	}
 }

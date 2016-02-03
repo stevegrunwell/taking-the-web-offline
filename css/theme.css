@@ -297,3 +297,8 @@ body {
 
 .reveal table tr:last-child td {
   border-bottom: 1px solid; }
+
+.reveal table caption {
+  caption-side: bottom;
+  margin-top: 1em;
+  font-size: .8em; }

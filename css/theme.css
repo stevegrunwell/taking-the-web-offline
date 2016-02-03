@@ -292,7 +292,8 @@ body {
 .reveal section h2 img, .reveal section h3 img {
   max-width: 60%;
   border: none;
-  background: none; }
+  background: none;
+  box-shadow: none; }
 
 .reveal table tr:last-child td {
   border-bottom: 1px solid; }

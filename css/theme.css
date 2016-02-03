@@ -290,5 +290,6 @@ body {
   color: #42affa; }
 
 .reveal section h2 img, .reveal section h3 img {
+  max-width: 60%;
   border: none;
   background: none; }

@@ -1,6 +1,9 @@
 [
     "index.md",
-    "who-am-i.md",
+    [
+        "who-am-i.md",
+        "emily.md"
+    ],
     "why-does-offline-matter.md",
     [
         "xylem-sales-support-tool.md",

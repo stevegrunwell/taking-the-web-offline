@@ -62,4 +62,12 @@ section.has-light-background {
 			}
 		}
 	}
+
+	table {
+		tr:last-child {
+			td {
+				border-bottom: 1px solid;
+			}
+		}
+	}
 }

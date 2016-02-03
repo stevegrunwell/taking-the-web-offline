@@ -293,3 +293,6 @@ body {
   max-width: 60%;
   border: none;
   background: none; }
+
+.reveal table tr:last-child td {
+  border-bottom: 1px solid; }

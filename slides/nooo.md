@@ -1,3 +1,1 @@
-##  Nooo
-
-This is a new Markdown slide
+<!-- .slide: data-background="resources/nooo.jpg" data-background-position="left center" -->

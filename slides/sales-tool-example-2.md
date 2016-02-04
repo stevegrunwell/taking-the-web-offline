@@ -1,0 +1,1 @@
+<!-- .slide: data-background="resources/product-detail.jpg" -->

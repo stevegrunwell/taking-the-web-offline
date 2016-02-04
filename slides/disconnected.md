@@ -1,0 +1,1 @@
+<!-- .slide: data-background="resources/disconnected.jpg" data-background-position="center center" -->

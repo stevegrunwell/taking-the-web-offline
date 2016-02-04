@@ -1,0 +1,1 @@
+![Xylem Offline Sales Support Tool desktop app](resources/desktop-app.jpg)

@@ -1,6 +1,6 @@
-##  ydn.db
+## YDN-DB
 
-* Library to simplify the API, regardless of the storage engine used
+* Library to simplify the API, regardless of the storage engine used:
 	* <!-- .element: class="fragment" --> Uses `IndexedDB` where available
 	* <!-- .element: class="fragment" --> WebSQL on browsers that don't support `IndexedDB`
 	* <!-- .element: class="fragment" --> `LocalStorage` as a final fallback

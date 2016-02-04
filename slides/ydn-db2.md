@@ -1,4 +1,4 @@
-##  ydn.db
+## YDN-DB
 
 ```js
 var db = new ydn.db.Storage('myDatabase');

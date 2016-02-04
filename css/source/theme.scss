@@ -54,9 +54,13 @@ section.has-light-background {
 
 .reveal {
 	section {
+		h1 {
+			margin-bottom: .8em;
+		}
+
 		h2, h3 {
 			img {
-				max-width: 60%;
+				max-width: 50%;
 				border: none;
 				background: none;
 				box-shadow: none;

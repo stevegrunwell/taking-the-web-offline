@@ -8,7 +8,7 @@ localStorage.setItem('foo', 'bar')
 
 var foo = localStorage.getItem('foo');
 
-console.log(foo); // bar
+console.log(foo);
 ```
 <!-- .element: class="fragment" -->
 

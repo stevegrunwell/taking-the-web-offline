@@ -10,3 +10,8 @@ var foo = localStorage.getItem('foo');
 
 console.log(foo); // bar
 ```
+
+```js
+> "bar"
+```
+<!-- .element: class="fragment" -->

@@ -8,4 +8,5 @@ This session is a case-study on taking a web application offline, synchronizing 
 
 ## History
 
+* [WordCamp Dayton 2016](http://dayton.wordcamp.org/2016) – March 5, 2016
 * [SunshinePHP 2016](http://2016.sunshinephp.com/) – February 6, 2016 ([joind.in](https://joind.in/talk/8f447))

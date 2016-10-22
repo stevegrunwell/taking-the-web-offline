@@ -8,6 +8,7 @@ This session is a case-study on taking a web application offline, synchronizing 
 
 ## History
 
+* [Columbus Code Camp 2016](http://columbuscodecamp.com/) – October 22, 2016
 * [WordCamp Ann Arbor 2016](https://2016.annarbor.wordcamp.org/) – October 15, 2016
 * [Northeast PHP 2016](http://2016.northeastphp.org/) – August 4, 2016 ([joind.in](https://joind.in/talk/4497a))
 * [WordCamp Dayton 2016](http://dayton.wordcamp.org/2016) – March 5, 2016 ([joind.in](https://joind.in/talk/c81de))
